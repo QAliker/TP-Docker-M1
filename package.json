@@ -1,0 +1,16 @@
+{
+  "name": "evaluation",
+  "version": "1.0.0",
+  "description": "Evaluation Docker appli nodejs",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "nodemon src/server.js"
+  },
+  "author": "Quentin Aliker",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
